@@ -4,3 +4,5 @@ left click on a column to drop a disk
 Hold B and left click for a bomb
 Hold C and left click for colour change
 Hold T and left click for teleport
+
+original connect 4 in text mode made in python too
